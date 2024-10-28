@@ -3,7 +3,7 @@ members: Csutak Lilla, Paliciuc Alex
 
 # 3 Layered Structure:
 1. Presentation Layer:
-  Technologies
+  -Technologies
     -> Web Framework:
     -> 3D Rendering:
     -> Styling:
